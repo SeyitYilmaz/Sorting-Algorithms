@@ -1,0 +1,6 @@
+C:\Users\smyde\source\repos\Sorting Algorithms\PermutationSort\bin\Debug\PermutationSort.exe.config
+C:\Users\smyde\source\repos\Sorting Algorithms\PermutationSort\bin\Debug\PermutationSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\PermutationSort\bin\Debug\PermutationSort.pdb
+C:\Users\smyde\source\repos\Sorting Algorithms\PermutationSort\obj\Debug\PermutationSort.csprojAssemblyReference.cache
+C:\Users\smyde\source\repos\Sorting Algorithms\PermutationSort\obj\Debug\PermutationSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\PermutationSort\obj\Debug\PermutationSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\smyde\source\repos\Sorting Algorithms\ShakerSort\bin\Debug\ShakerSort.exe.config
+C:\Users\smyde\source\repos\Sorting Algorithms\ShakerSort\bin\Debug\ShakerSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\ShakerSort\bin\Debug\ShakerSort.pdb
+C:\Users\smyde\source\repos\Sorting Algorithms\ShakerSort\obj\Debug\ShakerSort.csprojAssemblyReference.cache
+C:\Users\smyde\source\repos\Sorting Algorithms\ShakerSort\obj\Debug\ShakerSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\ShakerSort\obj\Debug\ShakerSort.pdb

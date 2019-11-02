@@ -1,0 +1,5 @@
+C:\Users\smyde\source\repos\Sorting Algorithms\BogoSort\bin\Debug\BogoSort.exe.config
+C:\Users\smyde\source\repos\Sorting Algorithms\BogoSort\bin\Debug\BogoSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\BogoSort\bin\Debug\BogoSort.pdb
+C:\Users\smyde\source\repos\Sorting Algorithms\BogoSort\obj\Debug\BogoSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\BogoSort\obj\Debug\BogoSort.pdb

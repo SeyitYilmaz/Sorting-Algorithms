@@ -1,0 +1,6 @@
+C:\Users\smyde\source\repos\Sorting Algorithms\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\smyde\source\repos\Sorting Algorithms\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\smyde\source\repos\Sorting Algorithms\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\smyde\source\repos\Sorting Algorithms\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\smyde\source\repos\Sorting Algorithms\HeapAndHeapSort\bin\Debug\HeapAndHeapSort.exe.config
+C:\Users\smyde\source\repos\Sorting Algorithms\HeapAndHeapSort\bin\Debug\HeapAndHeapSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\HeapAndHeapSort\bin\Debug\HeapAndHeapSort.pdb
+C:\Users\smyde\source\repos\Sorting Algorithms\HeapAndHeapSort\obj\Debug\HeapAndHeapSort.csprojAssemblyReference.cache
+C:\Users\smyde\source\repos\Sorting Algorithms\HeapAndHeapSort\obj\Debug\HeapAndHeapSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\HeapAndHeapSort\obj\Debug\HeapAndHeapSort.pdb

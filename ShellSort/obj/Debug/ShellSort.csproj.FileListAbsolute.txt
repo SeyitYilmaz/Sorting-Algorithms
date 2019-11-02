@@ -1,0 +1,5 @@
+C:\Users\smyde\source\repos\Sorting Algorithms\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\smyde\source\repos\Sorting Algorithms\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\smyde\source\repos\Sorting Algorithms\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\ShellSort\obj\Debug\ShellSort.pdb

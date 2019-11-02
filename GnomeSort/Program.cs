@@ -10,6 +10,7 @@ namespace GnomeSort
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

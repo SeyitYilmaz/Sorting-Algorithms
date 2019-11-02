@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationSort", "..\Permu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrandSort", "..\StrandSort\StrandSort.csproj", "{C73E1540-DEF0-46F4-B74C-F3931500833C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "..\CountingSort\CountingSort.csproj", "{ED2CD339-640D-4DB4-AAC7-7F9782A16600}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C73E1540-DEF0-46F4-B74C-F3931500833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C73E1540-DEF0-46F4-B74C-F3931500833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C73E1540-DEF0-46F4-B74C-F3931500833C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2CD339-640D-4DB4-AAC7-7F9782A16600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2CD339-640D-4DB4-AAC7-7F9782A16600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2CD339-640D-4DB4-AAC7-7F9782A16600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2CD339-640D-4DB4-AAC7-7F9782A16600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

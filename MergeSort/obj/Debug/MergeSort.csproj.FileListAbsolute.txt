@@ -1,0 +1,6 @@
+C:\Users\smyde\source\repos\Sorting Algorithms\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\Users\smyde\source\repos\Sorting Algorithms\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\smyde\source\repos\Sorting Algorithms\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\smyde\source\repos\Sorting Algorithms\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\smyde\source\repos\Sorting Algorithms\MergeSort\obj\Debug\MergeSort.pdb
